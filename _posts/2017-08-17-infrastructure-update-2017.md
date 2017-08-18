@@ -4,8 +4,9 @@ title:      Infrastructure Update, 2017
 summary:    An update on the current costs of the project
 ---
 
-As a follow-up to the post from last year detailing the infrastructure costs, here's an up-to-date snapshot. 
-We are still using Google Cloud Platform, although we generally prefer running open-source software on VMs rather than relying on hosted services, which are more expensive.
+As a follow-up to the post from last year detailing the infrastructure costs, here's an up-to-date snapshot.  
+
+We are still using Google Cloud Platform, although we generally prefer running open-source software on VMs rather than relying on hosted services, which are more expensive. 
 
  * 4 Cassandra nodes, 2TB HDD each (hm-4) ~ $512 + $320 = $832
  * 1 Postgres node, 250GB SSD (hm-4) ~ $128 + $43 = $171
