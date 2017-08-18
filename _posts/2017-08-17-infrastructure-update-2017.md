@@ -2,6 +2,7 @@
 layout:     post
 title:      Infrastructure Update, 2017
 summary:    An update on the current costs of the project
+---
 
 As a follow-up to the post from last year detailing the infrastructure costs, here's an up-to-date snapshot. 
 We are still using Google Cloud Platform, although we generally prefer running open-source software on VMs rather than relying on hosted services, which are more expensive.
