@@ -24,8 +24,10 @@ The current infrastructure consists of the following, with approximate monthly c
  * 1 backend node (preemptible highcpu-4) ~ $22
  * 6 retriever nodes ~ $42
  * 4 proxy nodes ~ $16
+ * Boot disks ~ $50
+ * Bandwidth out ~ $50
 
-Each node also has a 10GB SSD disk attached as a boot disk, which adds around $50.  Egress traffic also costs about $0.12 per GB, which adds another $50.
+Total: $1434
 
 Preemptible:
 
