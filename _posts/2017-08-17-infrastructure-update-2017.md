@@ -15,8 +15,8 @@ We are still using Google Cloud Platform, although we generally prefer running o
  * 1 backend node (preemptible n1-standard-2) ~ $14
  * 40 retriever nodes ~ $150
  * 5 proxy nodes ~ $15
- * 3 load balancers ~ $60
- * Boot disks (10 GB per instance) ~ $100
+ * 3 load balancers ~ $45
+ * Boot disks (10 GB per instance) ~ $50
  * Bandwidth out ~ $130
 
-Total: $1909
+Total: $1844
