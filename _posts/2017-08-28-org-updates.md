@@ -1,20 +1,23 @@
 ---
 layout:     post
-title:      Organization Updates
-summary:    Some organizational changes
+title:      Organizational Changes
+summary:    Company Structure, Funding Sources, and Licensing
 ---
 
-The OpenDota project has operated as a personal project (for tax purposes) for the past three years.
-However, as the project has grown (now exceeding $30,000 in annual revenue), we feel that it is now time to make some organizational changes.
+For the past three years, The OpenDota Project has operated as a personal project, primarily for tax purposes. However, the project has grown over the years and new exceeds $30,000 in annual revenue. We feel that it is finally time to make some organizational changes. The details are as follows:
 
-* Albert and Howard, the project founders, will create a holding company which will administer the opendota.com service and pay taxes on its revenues as a legal entity.
-  * We are committed to keeping the opendota.com service free of charge for users.
-  * The costs of the service will continue to be funded by sponsors.
-  * If you are interested in sponsorship, please contact albertqcui@gmail.com
-* The project code will remain fully open source and maintained by volunteer developers in the community.
- * We are also changing the license on odota/core from the GPLv3 to the MIT License, which is more permissive.
-   * We want to ensure that the code is easily usable by anyone and free of legal encumbrances.
- * Any features/fixes from Albert/Howard will continue to be contributed back to the open-source repository.
-* We will no longer be accepting indivdual donations from users.
-  * We will be decommissioning carry.opendota.com and the donation system.
-  * Existing cheese counts will be preserved and the profile icon will remain on donators' profile pages.
+* Albert and Howard, the project founders, will create a holding company which will administer opendota.com and pay taxes on its revenues as an official legal entity.
+* The costs of running opendota.com will now be funded exclusively by our sponsors.
+  * We are committed to keeping opendota.com free of charge for all our users.
+  * As such, we will no longer be accepting donations from individual users.
+    * We will be decommissioning carry.opendota.com and the donation system.
+    * However, existing cheese counts and profile icons will be preserved on individual profile pages.
+  * If you are interested in becoming a sponsors, please contact albertqcui@gmail.com
+* The project's code will remain fully open source and maintained by volunteer developers.
+  * Any features/fixes from Albert/Howard will continue to be contributed to the open-source repository.
+  * Additionally, we will be changing the license on odota/core from GPLv3 to The MIT License, which is more permissive.
+     * We want to ensure that the code is easily usable by anyone without any legal encumbrances.
+
+We believe these changes make the most sense given how The OpenDota Project has come to operate in the past few years and how we envision it continuing to operate in the future. If you have any questions, comments, concerns, or suggestions, please feel free to reach out to any of us and we would be more than happy to discuss our motivations for these changes.
+
+Happy Dota, everyone!
