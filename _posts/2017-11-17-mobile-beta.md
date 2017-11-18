@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Open Beta for OpenDota Mobile Application
+title:  Open Beta for OpenDota Mobile App
 date: 2017-11-17
 summary: Open beta for a new OpenDota mobile application
 ---
