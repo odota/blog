@@ -23,10 +23,10 @@ If you have any comments or issues, please open an issue on [Github](https://git
 
 **Why does x feature does not exist in the mobile app?**
 
-*Our plan for the app is to reach feature parity with OpenDota website. We will enhance the experience add more features gradually.*
+*Our plan for the app is to reach feature parity with OpenDota website. We will enhance the experience and add more features gradually.*
 
 **I’m interested in contributing to the app development. How can I help?**
 
-*You can contact me (Proyoyo) on [Discord](https://discordapp.com/invite/0o5SQGbXuWCNDcaF) #mobile channel and let me know what you want to implement. Or hit up our [Github issue page](https://github.com/odota/mobile/issues) and submit a PR related to the issue.*
+*You can contact me (Proyoyo) on [Discord](https://discordapp.com/invite/0o5SQGbXuWCNDcaF) #mobile channel and let me know what you want to implement. Or hit up our [GitHub issue page](https://github.com/odota/mobile/issues) and submit a PR related to the issue.*
 
 Thank you for your support!
