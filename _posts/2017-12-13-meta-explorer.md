@@ -15,5 +15,6 @@ Here are some examples of questions you can answer:
 * [Which heroes are picked the most in Divine matches?](https://www.opendota.com/meta?minRankTier=7)
 * [Is Lycan stronger on Radiant or Dire?](https://www.opendota.com/meta?minRankTier=&result=&side=&group=side&hero=77)
 * [Which heroes are most common in matches lasting longer than 90 minutes?](https://www.opendota.com/meta?minRankTier=&result=&side=&group=hero&hero=&minDuration=90&gameMode=)
+* [What's the win rate of Anti-Mage in games lasting 40 minutes?](https://www.opendota.com/meta?minRankTier=&result=&side=&group=duration&hero=1&minDuration=&gameMode=&lobbyType=)
 
 Have fun digging into the data!
