@@ -6,6 +6,7 @@ summary: A new feature to investigate what's going on in the world of public mat
 ---
 
 The [Meta Explorer](https://www.opendota.com/meta) is a tool to allow users to query a sampled set of public matches.
+This is the public match counterpart to the original [Explorer](https://www.opendota.com/explorer), which allows advanced queries on professional matches.
 Roughly 10% of the public matches played where 2 or more players have a rank (to determine skill level) are sampled.
 We hope this tool allows users to find some interesting patterns or trends in the current state of the game!
 
