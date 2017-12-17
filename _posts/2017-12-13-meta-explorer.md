@@ -20,5 +20,6 @@ Here are some examples of questions you can answer:
 * [Is Lycan stronger on Radiant or Dire?](https://www.opendota.com/meta?minRankTier=&result=&side=&group=side&hero=77)
 * [Which heroes are most common in matches lasting longer than 90 minutes?](https://www.opendota.com/meta?minRankTier=&result=&side=&group=hero&hero=&minDuration=90&gameMode=)
 * [What's the win rate of Anti-Mage in games lasting 40 minutes?](https://www.opendota.com/meta?minRankTier=&result=&side=&group=duration&hero=1&minDuration=&gameMode=&lobbyType=)
+* [Do heroes with 2 legs do better than those with 4?](https://www.opendota.com/meta?group=legs)
 
 Have fun digging into the data!
