@@ -18,7 +18,7 @@ OpenDota is now three years old! Here's a summary of the features that were rele
 * Match stories, automatically generated verbal summaries of Dota matches
 * "Played with", the ability to immediately see your record when playing with other players by viewing their profile
 * New graphing library (Recharts) for prettier looking charts, and updates to React 16 and styled-components for increased performance/maintainability
-* Along with hundreds of other visual improvements and bug fixes, a summary of which can be found [here].(https://github.com/odota/web/pulls?q=is%3Apr+is%3Aclosed+label%3Arelease)
+* Along with hundreds of other visual improvements and bug fixes, a summary of which can be found [here](https://github.com/odota/web/pulls?q=is%3Apr+is%3Aclosed+label%3Arelease).
 
 All of these features were built by volunteer contributors, and it's incredibly exciting to see what the community comes up with next!
 
