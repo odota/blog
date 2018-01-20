@@ -26,13 +26,13 @@ All of these features were built by volunteer contributors, and it's incredibly 
 ====
 
 In 2017, revenues and expenditures were as follows:
-```
-Sponsors	$40,354.08
-Donations	$2,620.00
-Ads	$1,093.12
-Fees	-$2,332.81
-Servers	-$22,530.55
-```
+
+Sponsors|$40,354.08
+Donations|$2,620.00
+Ads|$1,093.12
+Fees|-$2,332.81
+Servers|-$22,530.55
+
 Net operating margin for 2017:	**$19,203.84**
 
 Notes on these figures:
