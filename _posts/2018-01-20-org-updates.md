@@ -54,7 +54,8 @@ The details are as follows:
 * We don't anticipate any changes to the end-user experience. We are committed to maintaining feature parity for all users, so everyone can have access to the same functionality.
 * The costs of hosting the public opendota.com API (api.opendota.com) will be funded by sponsors, who get product placement on the public hosted OpenDota UI (www.opendota.com).
 * We are planning to remove the donation link (carry.opendota.com) from the public UI.
-  * For the past 18 months, sponsors have more than covered the operating costs of the service. We retained a token $100 per month goal for the site footer (roughly 5% of operating costs), just to show some progress for those interested in donating. We've found that setting the value too high causes people to make panicked Reddit threads, so we've been careful about keeping the value low. 
+  * For the past 18 months, sponsors have more than covered the operating costs of the service. We retained a token $100 per month goal for the site footer (roughly 5% of operating costs), just to show some progress for those interested in donating.
+  * We've found that setting the value too high causes people to make panicked Reddit threads, so we've been careful about keeping the value low. 
   * Removing the donation link/meter should resolve this issue completely.
   * Most months, we receive between $150 and $200 in donations.
   * Our goal has always been to build a service that's sustainable in the long-term, and sponsors have proven to be an effective way of achieving that goal.
