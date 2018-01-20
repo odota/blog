@@ -45,7 +45,9 @@ Including the existing surplus from years past, the current project balance is *
 
 Organizational Changes
 ====
-Since its inception, the OpenDota Project has operated as a personal project for tax purposes (sole proprietorship). However, the project has grown over the years (now exceeding $30,000 in annual revenue), and we feel that it is finally time to make some organizational changes. The details are as follows:
+Since its inception, the OpenDota Project has operated as a personal project for tax purposes (sole proprietorship). However, the project has grown over the years (now exceeding $30,000 in annual revenue), and we feel that it is finally time to make some organizational changes.
+
+The details are as follows:
 
 * Albert and Howard, the project founders, will create a LLC which will administer opendota.com and pay taxes on its revenues as a legal entity.
   * With the recent tax changes passed by the US government, incorporation will result in a lower tax rate than our personal marginal tax rates, which reduces our tax burden.
