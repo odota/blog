@@ -12,7 +12,6 @@ OpenDota is now three years old! Here's a summary of the features that were rele
 * [Meta Explorer](https://www.opendota.com/meta), a feature allowing advanced queries on sampled public matches
 * [Mobile application beta](https://blog.opendota.com/2017/11/17/mobile-beta/), with a full release sometime later this year
 * [Hero pages](https://www.opendota.com/heroes) with additional data on heroes
-* [Team pages](https:///www.opendota.com/teams) with a real-time ranking of teams and a page for each team with detailed data
 * A [data dump](https://blog.opendota.com/2017/03/24/datadump2/) of over a billion matches for researchers and analysts to work with
 * [Feed API](https://github.com/odota/core/blob/master/docs/feed.md), an alternative WebSocket-powered way of getting matches from the OpenDota platform
 * Match stories, automatically generated verbal summaries of Dota matches
