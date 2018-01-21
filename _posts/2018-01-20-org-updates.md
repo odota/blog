@@ -39,7 +39,7 @@ Notes on these figures:
 * Ads include revenue from advertisements supplied by networks. There were removed in February 2017.
 * Fees include federal/state income taxes, as well as the 2.9% + $0.30 on each transaction charged by our payment processors (PayPal and Stripe)
 * Donations include remaining revenue from individual donors (after processing fees) via [https://carry.opendota.com](https://carry.opendota.com)
-* Servers include infrastructure costs, plus administrative costs such as website registration and developer fees.
+* Servers include infrastructure costs, plus administrative costs such as website registration.
 
 Including the existing surplus from years past, the current project balance is **$24,301.93**.
 
