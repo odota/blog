@@ -35,7 +35,7 @@ Servers|-$22,530.55
 Net operating margin for 2017:	**$19,203.84**
 
 Notes on these figures:
-* Ads include revenue from advertisements supplied by networks. There were removed in February 2017.
+* Ads include revenue from advertisements supplied by networks. These were removed in February 2017.
 * Fees include federal/state income taxes, as well as the 2.9% + $0.30 on each transaction charged by our payment processors (PayPal and Stripe)
 * Donations include remaining revenue from individual donors (after processing fees) via [https://carry.opendota.com](https://carry.opendota.com)
 * Servers include infrastructure costs, plus administrative costs such as website registration.
