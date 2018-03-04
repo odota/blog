@@ -6,9 +6,9 @@ summary: A new way to consume the data on OpenDota
 ---
 The OpenDota team is proud to announce that the OpenDota mobile app is now live on the app stores for both Android and iOS! 
 
-Google Play Store link: https://play.google.com/store/apps/details?id=com.opendota.mobile&hl=en
+[Google Play Store](https://play.google.com/store/apps/details?id=com.opendota.mobile&hl=en)
 
-Apple App Store link: https://itunes.apple.com/us/app/opendota/id1354762555?ls=1&mt=8
+[Apple App Store link](https://itunes.apple.com/us/app/opendota/id1354762555?ls=1&mt=8)
 
 If you have any feedback or issues, please open an issue on [Github](https://github.com/odota/mobile/issues) or have a chat with one of us on [Discord](https://discordapp.com/invite/0o5SQGbXuWCNDcaF).
 
