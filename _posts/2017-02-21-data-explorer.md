@@ -18,9 +18,9 @@ Feature Overview
 
 Example Queries
 ----
-* [Fastest Midas in 7.02](https://www.opendota.com/explorer?select=timing_hand_of_midas&patch=7.02)
+* [Fastest Midas in 7.02](https://www.opendota.com/explorer?select=timing_hand_of_midas&maxPatch=7.02&minPatch=7.02)
 
-* [Earliest courier kill in 7.02](https://www.opendota.com/explorer?select=kill_npc_dota_courier&patch=7.02)
+* [Earliest courier kill in 7.02](https://www.opendota.com/explorer?select=kill_npc_dota_courier&maxPatch=7.02&minPatch=7.02)
 
 * [Most kills at TI6](https://www.opendota.com/explorer?select=kills&patch=&league=4664)
 
