@@ -27,7 +27,7 @@ Based on our survey of our API users, we feel the Free Tier limits will appropri
 For those needing more API calls, we’re providing a new Premium Tier with higher rate limits and priority support. 
 Usage of the Premium Tier will require a payment method and API key. Usage of the free tier will remain unchanged, no API key required.
 
-**See the new [API page](https://www.opendota.com/api) where you can also signup and receive your API key so that you can migrate to this change ahead of time.
+**See the new [API page](https://www.opendota.com/api-keys) where you can also signup and receive your API key so that you can migrate to this change ahead of time.
 The new tiers and billing will be enabled starting 4/22 @ 1 PM PDT (UTC+7).**
 
 ![New tiers pricing information.]({{ "/assets/api_pricing_table.PNG" | absolute_url }})
