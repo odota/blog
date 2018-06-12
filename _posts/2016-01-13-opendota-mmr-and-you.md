@@ -1,7 +1,6 @@
 ---
 layout:     post
 title:      OpenDota, MMR, and You
-date:       2016-01-13 00:00:00
 summary:    We've been getting a lot of questions about how MMR tracking works now, and we're sorry for not making it clear.
 categories: 
 ---
