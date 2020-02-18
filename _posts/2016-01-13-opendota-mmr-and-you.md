@@ -5,6 +5,9 @@ summary:    We've been getting a lot of questions about how MMR tracking works n
 categories: 
 ---
 
+**February 2020 Update:** MMR sharing no longer works, the only data available on a player's MMR page is the data that has been
+gathered previously. The instructions on this post are no longer valid.
+
 We've been getting a lot of questions about how MMR tracking works now, and we're sorry for not making it clear.
 When Valve rolled out Source 2, they changed how MMR is displayed. Instead of only your friends being able
 to view your MMR, it's now only viewable if you add it to your profile card. It will then be publically viewable.
