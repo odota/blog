@@ -5,7 +5,7 @@ summary:    We've been getting a lot of questions about how MMR tracking works n
 categories: 
 ---
 
-**Februrary 2020 Update:** MMR sharing no longer works, the only data available on a player's MMR page is the data that has been
+**February 2020 Update:** MMR sharing no longer works, the only data available on a player's MMR page is the data that has been
 gathered previously. The instructions on this post are no longer valid.
 
 We've been getting a lot of questions about how MMR tracking works now, and we're sorry for not making it clear.
